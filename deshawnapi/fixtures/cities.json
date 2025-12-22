@@ -1,0 +1,16 @@
+[
+    {
+        "model": "deshawnapi.city",
+        "pk": 1,
+        "fields": {
+            "name": "Nashville"
+        }
+    },
+    {
+        "model": "deshawnapi.city",
+        "pk": 2,
+        "fields": {
+            "name": "Memphis"
+        }
+    }
+]

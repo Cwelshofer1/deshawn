@@ -1,0 +1,20 @@
+[
+    {
+        "model": "deshawnapi.dog",
+        "pk": 1,
+        "fields": {
+            "name": "Buddy",
+            "age": 3,
+            "breed": "Golden Retriever"
+        }
+    },
+    {
+        "model": "deshawnapi.dog",
+        "pk": 2,
+        "fields": {
+            "name": "Max",
+            "age": 5,
+            "breed": "Labrador"
+        }
+    }
+]
